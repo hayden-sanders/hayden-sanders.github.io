@@ -1,1 +1,57 @@
 
+  
+  body {
+  background: bisque;
+
+}
+
+p {
+  color: black;
+text-align: center
+
+}
+
+h1 {
+  font-weight: bold;
+  text-align: center;
+
+}
+
+h2 {
+  text-align: center;
+  
+}
+
+h3 {
+  text-align: center;
+
+}
+
+h5 {
+  text-align: center
+   
+}
+
+
+li {
+ text-align: center; 
+  
+  
+}
+
+h4 {
+  font-weight: 200;
+  text-align: center
+  
+}
+
+.contact {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 10px;
+  text-decoration: underline;
+}
+
+.specials {
+  font-size: 13px;
+}
